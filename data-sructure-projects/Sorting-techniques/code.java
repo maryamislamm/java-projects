@@ -239,3 +239,4 @@ public class Main {
         System.out.println("Quick Sort: Runtime=" + (endTime - startTime) + "ns, Comparisons=" + quickComparisons + ", Interchanges=" + quickInterchanges);
     }
 }
+//mario
